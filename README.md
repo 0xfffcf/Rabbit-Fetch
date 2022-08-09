@@ -1,7 +1,7 @@
 <h1 align="center">Rabbit Fetch</h1>
 
 <p align='center'>
-    <b>🐰  Discord Theme based on Green  🐰</b>
+    <b>🐰 Rabbit Fetch 🐰</b>
 </p>
 
 ----
