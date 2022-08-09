@@ -1,7 +1,7 @@
 <h1 align="center">Rabbit Fetch</h1>
 
 <p align='center'>
-    <b>🐰 Rabbit Fetch 🐰</b>
+    <b>🐰 Minimalist fetch service 🐰</b>
 </p>
 
 ----
