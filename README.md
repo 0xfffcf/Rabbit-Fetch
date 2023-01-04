@@ -27,9 +27,9 @@
 
 <p align="center">
     <b>Informations</b><br>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/0xfffcf/Rabbit-Fetch?color=7143de">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/0xfffcf/Rabbit-Fetch?color=7143de">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/0xfffcf/Rabbit-Fetch?color=7143de">
-    <img alt="GitHub" src="https://img.shields.io/github/license/0xfffcf/Rabbit-Fetch?color=7143de">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/0xfffcf/Rabbit-Fetch?color=7143de">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/edwardelton/Rabbit-Fetch?color=7143de">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/edwardelton/Rabbit-Fetch?color=7143de">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edwardelton/Rabbit-Fetch?color=7143de">
+    <img alt="GitHub" src="https://img.shields.io/github/license/edwardelton/Rabbit-Fetch?color=7143de">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edwardelton/Rabbit-Fetch?color=7143de">
 </p>
