@@ -23,7 +23,7 @@
 > # Support me.
 
 * Thanks for looking at this repository, if you like to press the ⭐ button!
-* Made by [0xfffcf](https://github.com/0xfffcf).
+* Made by [Edward Elton](https://github.com/edwardelton).
 
 <p align="center">
     <b>Informations</b><br>
